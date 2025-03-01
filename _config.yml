@@ -13,7 +13,7 @@ title                    : "Yu Xing"
 title_separator          : "-"
 name                     : &name "Yu Xing"
 description              : &description "personal description"
-url                      : https://yuxing-1.github.io/
+url                      : https://yuxing-1.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuxing-1/yuxing-1.github.io"
 
