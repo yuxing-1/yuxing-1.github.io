@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Papers
-<ol id="customlistjournal" style="counter-reset: elementcounter 8;">
+<ul id="customlistjournal" style="counter-reset: elementcounter 8;">
 
 <li> ccc
 </li>
@@ -25,7 +25,7 @@ author_profile: true
 <li> aaa
 </li>
 
-</ol>
+</ul>
 
 
 ## Conference Papers
