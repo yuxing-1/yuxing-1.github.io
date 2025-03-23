@@ -23,7 +23,7 @@ author_profile: true
 <li> <b>Y. Xing</b>, and K. H. Johansson. Transient behavior of gossip opinion dynamics with community structure, <i>Automatica</i>, vol. 164, p. 111627, 2024.
 </li>
 
-<li>  <b>Y. Xing</b>, X. He, H. Fang, and K. H. Johansson. Community structure recovery and interaction probability estimation for gossip opinion dynamics,<i>Automatica</i>, vol. 154, p. 111105, 2023.
+<li>  <b>Y. Xing</b>, X. He, H. Fang, and K. H. Johansson. Community structure recovery and interaction probability estimation for gossip opinion dynamics, <i>Automatica</i>, vol. 154, p. 111105, 2023.
 </li>
 
 <li>  <b>Y. Xing</b>, X. He*, H. Fang, and K. H. Johansson. Recursive network estimation for a model with binary-valued states, <i>IEEE Transactions on Automatic
