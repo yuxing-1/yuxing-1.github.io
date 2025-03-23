@@ -5,60 +5,60 @@
     /* create custom counter and set it to 0 */
     /* counter-reset: elementcounter 100; */
     margin-left:2; padding-left:1.5;text-indent: -1.3em;
-  }
-  
-  #customlistjournal>li:before {
+}
+
+#customlistjournal>li:before {
     /* print out "Element " followed by the current counter value */
     content: "[J" counter(elementcounter) "]";
     padding-right:0.2em; 
     /* increment counter */
     counter-increment: elementcounter -1;
-  }
+}
 
-  #customlistconference {
+#customlistconference {
     /* delete default counter */
     list-style-type: none;
     /* create custom counter and set it to 0 */
     /* counter-reset: elementcounter;*/
     margin-left:1.6; padding-left:1.3;text-indent: -1.7em;
-  }
-  
-  #customlistconference>li:before {
+}
+
+#customlistconference>li:before {
     /* print out "Element " followed by the current counter value */
     content: "[C" counter(elementcounter) "]";
     padding-right:0.2em; 
     /* increment counter */
     counter-increment: elementcounter -1;
-  }
+}
 
-  #customlisttalk {
+#customlisttalk {
     /* delete default counter */
     list-style-type: none;
     /* create custom counter and set it to 0 */
     /* counter-reset: elementcounter;*/
     margin-left:1.6; padding-left:1.3;text-indent: -1.7em;
-  }
-  
-  #customlisttalk>li:before {
+}
+
+#customlisttalk>li:before {
     /* print out "Element " followed by the current counter value */
     content: "[T" counter(elementcounter) "]";
     padding-right:0.2em; 
     /* increment counter */
     counter-increment: elementcounter -1;
-  }
+}
 
-  #customlistpresentation {
+#customlistpresentation {
     /* delete default counter */
     list-style-type: none;
     /* create custom counter and set it to 0 */
     /* counter-reset: elementcounter;*/
     margin-left:1.6; padding-left:1.3;text-indent: -1.7em;
-  }
-  
-  #customlistpresentation>li:before {
+}
+
+#customlistpresentation>li:before {
     /* print out "Element " followed by the current counter value */
     content: "[P" counter(elementcounter) "]";
     padding-right:0.2em; 
     /* increment counter */
     counter-increment: elementcounter -1;
-  }
+}
