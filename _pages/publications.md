@@ -50,7 +50,7 @@ author_profile: true
 
 ## Conference Papers
 
-<ul id="customlistconference" style="counter-reset: elementcounter 10;">
+<ul id="customlistconference" style="counter-reset: elementcounter 3;">
 
 <li> <b>Y. Xing</b>, and K. H. Johansson. Concentration in gossip opinion dynamics over random graphs, <i>SIAM Journal on Control and Optimization</i>, vol. 62, no. 3, pp. 1521-1545, 2024. 
 </li>
