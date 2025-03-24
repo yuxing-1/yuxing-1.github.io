@@ -55,4 +55,7 @@ author_profile: true
 <li> <b>Y. Xing</b>, and K. H. Johansson. Concentration in gossip opinion dynamics over random graphs, <i>SIAM Journal on Control and Optimization</i>, vol. 62, no. 3, pp. 1521-1545, 2024. 
 </li>
 
+<li> Z. Chen,  <b>Y. Xing</b>, and H. Qin. Multiagent opinion dynamics influenced by individual susceptibility and anchoring effect, <i>Kybernetika</i>, vol. 55, no. 4, pp. 714-726, 2019.
+</li>
+
 </ul>
