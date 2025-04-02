@@ -18,4 +18,4 @@ I have broad research interests in dynamics and algorithms over networks. Below 
 
 ## 2. Learning Network Structure from Dynamical Observations
 
-## 3. Analyzing Stochastic Approximation and System Identification Algorithms
+## 3. Analyzing Performance of Stochastic Algorithms
