@@ -75,7 +75,7 @@ author_profile: true
 <li> <b>Y. Xing</b> and K. H. Johansson. A concentration phenomenon in a gossip interaction model with two communities, <i>European Control Conference (ECC)</i>, pp. 1126-1131, 2022.
 </li>
 
-<li> R. Jin, <b>Y. Xing</b>, and X. He. On the convergence of m{SGD} and {A}da{G}rad for stochastic optimization, <i>International Conference on Learning
+<li> R. Jin, <b>Y. Xing</b>, and X. He. On the convergence of mSGD and AdaGrad for stochastic optimization, <i>International Conference on Learning
   Representations (ICLR)</i>, 2022.
 </li>
 
