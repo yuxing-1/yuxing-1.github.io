@@ -14,8 +14,8 @@ author_profile: true
 
 I have broad research interests in dynamics and algorithms over networks. Below are some major projects I have been working on.
 
-## 1. Quantifying Emergent Behaviors in Network Dynamics
+## Quantifying Emergent Behaviors in Network Dynamics
 
-## 2. Learning Network Structure from Dynamical Observations
+## Learning Network Structure from Dynamical Observations
 
-## 3. Analyzing Performance of Stochastic Algorithms
+## Analyzing Performance of Stochastic Algorithms
