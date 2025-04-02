@@ -13,8 +13,8 @@ author_profile: true
 {% endfor %} -->
 
 
-##1. Quantifying Emergent Behaviors in Network Dynamics
+## 1. Quantifying Emergent Behaviors in Network Dynamics
 
-##2. Learning Network Structure from Dynamical Observations
+## 2. Learning Network Structure from Dynamical Observations
 
-##3. Analyzing Stochastic Approximation and System Identification Algorithms
+## 3. Analyzing Stochastic Approximation and System Identification Algorithms
