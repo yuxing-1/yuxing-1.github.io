@@ -49,7 +49,7 @@ author_profile: true
 
 ## Conference Papers
 
-<ul id="customlistconference" style="counter-reset: elementcounter 3;">
+<ul id="customlistconference" style="counter-reset: elementcounter 16;">
 
 <li> <b>Y. Xing</b>, A. Bizyaeva, and K. H. Johansson. Learning communities from equilibria of nonlinear opinion dynamics, in <i>IEEE Conference on Decision and Control (CDC)</i>,pp. 2325-2330, 2024.
 </li>
