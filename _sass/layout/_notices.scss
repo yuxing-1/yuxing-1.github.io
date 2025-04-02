@@ -98,3 +98,9 @@
 .notice--danger {
   @include notice($danger-color);
 }
+
+.news {
+  @include notice($primary-color);
+        max-height: 220px;
+        overflow-y: auto;
+}
