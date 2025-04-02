@@ -24,8 +24,8 @@ main:
   - title: "Biography"
     url: /cv/
         
-  - title: "News"
-    url: /year-archive/
+  # - title: "News"
+  #   url: /year-archive/
     
   # - title: "Guide"
     # url: /markdown/
