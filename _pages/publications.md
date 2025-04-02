@@ -49,9 +49,12 @@ author_profile: true
 
 ## Conference Papers
 
-<ul id="customlistconference" style="counter-reset: elementcounter 16;">
+<ul id="customlistconference" style="counter-reset: elementcounter 17;">
 
-<li> <b>Y. Xing</b>, A. Bizyaeva, and K. H. Johansson. Learning communities from equilibria of nonlinear opinion dynamics, in <i>IEEE Conference on Decision and Control (CDC)</i>,pp. 2325-2330, 2024.
+<li> X. Sun, N. Chen, M. Wohlrapp, A. Gossmann, <b>Y. Xing</b>, E. Dorigatti, C. Feistner, F. Drost, D. Scarcella, L. Helen Beer, and C. Marr. Multi-objective hierarchical feedback optimization of penalty multiplier for domain invariant auto-encoding, in <i>28th International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2025.
+</li>
+
+<li> <b>Y. Xing</b>, A. Bizyaeva, and K. H. Johansson. Learning communities from equilibria of nonlinear opinion dynamics, in <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 2325-2330, 2024.
 </li>
 
 <li> L. Wang, <b>Y. Xing</b>, and K. H. Johansson. On final opinions of the Friedkin-Johnsen model over random graphs with partially stubborn community, in <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 4562-4567, 2024.
