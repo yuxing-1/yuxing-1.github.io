@@ -51,10 +51,47 @@ author_profile: true
 
 <ul id="customlistconference" style="counter-reset: elementcounter 3;">
 
-<li> <b>Y. Xing</b>, and K. H. Johansson. Concentration in gossip opinion dynamics over random graphs, <i>SIAM Journal on Control and Optimization</i>, vol. 62, no. 3, pp. 1521-1545, 2024. 
+<li> <b>Y. Xing</b>, A. Bizyaeva, and K. H. Johansson. Learning communities from equilibria of nonlinear opinion dynamics, in <i>IEEE Conference on Decision and Control (CDC)</i>,pp. 2325-2330, 2024.
 </li>
 
-<li> Z. Chen,  <b>Y. Xing</b>, and H. Qin. Multiagent opinion dynamics influenced by individual susceptibility and anchoring effect, <i>Kybernetika</i>, vol. 55, no. 4, pp. 714-726, 2019.
+<li> L. Wang, <b>Y. Xing</b>, and K. H. Johansson. On final opinions of the Friedkin-Johnsen model over random graphs with partially stubborn community, in <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 4562-4567, 2024.
+</li>
+
+<li> L. Wang, <b>Y. Xing</b>, C. Altafini, and K. H. Johansson. Maximizing social power in multiple independent Friedkin-Johnsen models, in <i>European Control Conference (ECC)</i>, pp. 3422-3427, 2024.
+</li>
+
+<li> A. P. Riveiros, <b>Y. Xing</b>, N. Bastianello, and K. H. Johansson. Real-time anomaly detection and categorization for satellite reaction wheels, in <i>European Control Conference (ECC)</i>, pp. 253-260, 2024.
+</li>
+
+<li> <b>Y. Xing</b> and K. H. Johansson. Almost exact recovery in gossip opinion dynamics over stochastic block models, in <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 2421-2426, 2023.
+</li>
+
+<li> <b>Y. Xing</b>, X. Sun, and K. H. Johansson. Joint learning of network topology and opinion dynamics based on bandit algorithms, in <i>22nd IFAC World Congress</i>, <i>IFAC-PapersOnLine</i>, vol. 56, no. 2, pp. 664-669, 2023.
+</li>
+
+<li> <b>Y. Xing</b> and K. H. Johansson. A concentration phenomenon in a gossip interaction model with two communities, in <i>European Control Conference (ECC)</i>, pp. 1126-1131, 2022.
+</li>
+
+<li> R. Jin, <b>Y. Xing</b>, and X. He. On the convergence of m{SGD} and {A}da{G}rad for stochastic optimization, in <i>International Conference on Learning
+  Representations (ICLR)</i>, 2022.
+</li>
+
+<li> <b>Y. Xing</b>, X. He, H. Fang, and K. H. Johansson. Community detection for gossip dynamics with stubborn agents, in <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 4915-4920, 2020.
+</li>
+
+<li> <b>Y. Xing</b>, B. Gravell, X. He, K. H. Johansson, and T. Summers. Linear system identification under multiplicative noise from multiple trajectory data, in <i>American Control Conference (ACC)</i>, pp. 5157-5261, 2020.
+</li>
+
+<li> <b>Y. Xing</b>, X. He, H. Fang, and K. H. Johansson. Network weight estimation for binary-valued observation models, in <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 2278-2283, 2019.
+</li>
+
+<li> Y. Dong, <b>Y. Xing</b>, and W. Zhao. The identification of social networks by the least-square algorithm, in <i>Chinese Control Conference (CCC)</i>, pp. 1931-1936, 2018.
+</li>
+
+<li> <b>Y. Xing</b> and H. Fang. A smooth bounded confidence model maintaining clustering phenomenon, in <i>Chinese Control Conference (CCC)</i>, pp. 9731-9736, 2018.
+</li>
+
+<li> <b>Y. Xing</b> and H. Fang. A random opinion formation model over signed networks, in <i>Asian Control Conference (ASCC)</i>, pp. 687-692, 2017.
 </li>
 
 </ul>
