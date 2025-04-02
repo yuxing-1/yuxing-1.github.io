@@ -49,7 +49,7 @@ author_profile: true
 
 ## Conference Papers
 
-<ul id="customlistconference" style="counter-reset: elementcounter 17;">
+<ul id="customlistconference" style="counter-reset: elementcounter 16;">
 
 <li> X. Sun, N. Chen, M. Wohlrapp, A. Gossmann, <b>Y. Xing</b>, E. Dorigatti, C. Feistner, F. Drost, D. Scarcella, L. Helen Beer, and C. Marr. Multi-objective hierarchical feedback optimization of penalty multiplier for domain invariant auto-encoding, in <i>28th International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2025.
 </li>
