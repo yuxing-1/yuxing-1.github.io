@@ -11,6 +11,6 @@ I am a postdoctoral researcher at Division of Decision and Control Systems, KTH 
 
 
 ### News
-***May 22, 2024*** -- Our paper "[Concentration in Gossip Opinion Dynamics over Random Graphs](https://epubs.siam.org/doi/full/10.1137/23M1545823)" has been published online in *SIAM Journal on Control and Optimization*. Read the full paper here.
+***May 22, 2024*** -- Our paper "[Concentration in Gossip Opinion Dynamics over Random Graphs](https://epubs.siam.org/doi/full/10.1137/23M1545823)" has been published online in *SIAM Journal on Control and Optimization*. Check the full paper [here]().
 
 {: .news }
