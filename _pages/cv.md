@@ -12,15 +12,15 @@ redirect_from:
 ## Work experience
 
 * 2020 -- : Postdoctoral Researcher
-  * Division of Decision and Control Systems, KTH Royal Institute of Technology, Stockholm, Sweden
+  * Division of Decision and Control Systems, KTH Royal Institute of Technology, Sweden
   * Supervisor: Prof. Karl Henrik Johansson
 
 ## Education
 
 * Ph.D in Operational Research and Cybernetics, 2020
-  * Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China
+  * Academy of Mathematics and Systems Science, Chinese Academy of Sciences, China
   * Supervisor: Prof. Haitao Fang
-* B.S. in Psychology, Peking University, Beijing, China, 2014
+* B.S. in Psychology, Peking University, China, 2014
 
 
 <!--
