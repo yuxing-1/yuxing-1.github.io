@@ -11,32 +11,30 @@ redirect_from:
 
 ## Work experience
 
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 -- : Postdoctoral Researcher
+  * Division of Decision and Control Systems, KTH Royal Institute of Technology, Stockholm, Sweden
+  * Supervisor: Prof. Karl Henrik Johansson
 
 ## Education
 
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Operational Research and Cybernetics, 2020
+  * Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences, Beijing, China
+  * Supervisor: Prof. Haitao Fang
+* B.S. in Psychology, Peking University, Beijing, China, 2014
 
+
+<!--
 ## Teaching
 
-  <ul>{% for post in site.teaching reversed %}
+* TA -- EL1010 Automatic Control, General Course, KTH Royal Institute of Technology, 2022
+-->
+
+
+
+<!--  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>-->
+
   
 <!-- ## Service and leadership
 * Currently signed in to 43 different slack teams-->
