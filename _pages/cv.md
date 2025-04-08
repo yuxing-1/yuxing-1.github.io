@@ -18,7 +18,7 @@ redirect_from:
 ## Education
 
 * Ph.D in Operational Research and Cybernetics, 2020
-  * Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences, Beijing, China
+  * Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China
   * Supervisor: Prof. Haitao Fang
 * B.S. in Psychology, Peking University, Beijing, China, 2014
 
