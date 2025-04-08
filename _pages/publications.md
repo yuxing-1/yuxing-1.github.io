@@ -94,7 +94,7 @@ author_profile: true
 <li> <b>Y. Xing</b> and H. Fang. A smooth bounded confidence model maintaining clustering phenomenon, <i>Chinese Control Conference (CCC)</i>, pp. 9731-9736, 2018.
 </li>
 
-<li> <b>Y. Xing</b> and H. Fang. A random opinion formation model over signed networks, <i>Asian Control Conference (ASCC)</i>, pp. 687-692, 2017.
+<li>   <b>Y. Xing</b> and H. Fang. A random opinion formation model over signed networks, <i>Asian Control Conference (ASCC)</i>, pp. 687-692, 2017.
 </li>
 
 </ul>
