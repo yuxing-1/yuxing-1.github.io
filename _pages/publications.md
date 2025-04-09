@@ -16,7 +16,7 @@ author_profile: true
 *corresponding author, ^equal contribution
 <ul id="customlistjournal" style="counter-reset: elementcounter 10;">
 
-<li> <b>Y. Xing</b>, and K. H. Johansson. Concentration in gossip opinion dynamics over random graphs, <i>SIAM Journal on Control and Optimization</i>, vol. 62, no. 3, pp. 1521-1545, 2024. [<a href="/_publications/J2024SICON.pdf">pdf</a>]
+<li> <b>Y. Xing</b>, and K. H. Johansson. Concentration in gossip opinion dynamics over random graphs, <i>SIAM Journal on Control and Optimization</i>, vol. 62, no. 3, pp. 1521-1545, 2024. [<a href="/papers/J2024SICON.pdf">pdf</a>]
 </li>
 
 <li> <b>Y. Xing</b>, and K. H. Johansson. Transient behavior of gossip opinion dynamics with community structure, <i>Automatica</i>, vol. 164, p. 111627, 2024.
