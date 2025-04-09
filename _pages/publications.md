@@ -69,32 +69,32 @@ author_profile: true
 <li> <b>Y. Xing</b> and K. H. Johansson. Almost exact recovery in gossip opinion dynamics over stochastic block models, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 2421-2426, 2023. [<a href="/papers/C2023CDC.pdf">pdf</a>]
 </li>
 
-<li> &nbsp; <b>Y. Xing</b>, X. Sun, and K. H. Johansson. Joint learning of network topology and opinion dynamics based on bandit algorithms, <i>22nd IFAC World Congress</i>, <i>IFAC-PapersOnLine</i>, vol. 56, no. 2, pp. 664-669, 2023.[<a href="/papers/C2023IFAC.pdf">pdf</a>]
+<li> &nbsp; <b>Y. Xing</b>, X. Sun, and K. H. Johansson. Joint learning of network topology and opinion dynamics based on bandit algorithms, <i>22nd IFAC World Congress</i>, <i>IFAC-PapersOnLine</i>, vol. 56, no. 2, pp. 664-669, 2023. [<a href="/papers/C2023IFAC.pdf">pdf</a>]
 </li>
 
-<li> &nbsp; <b>Y. Xing</b> and K. H. Johansson. A concentration phenomenon in a gossip interaction model with two communities, <i>European Control Conference (ECC)</i>, pp. 1126-1131, 2022.[<a href="/papers/C2022ECC.pdf">pdf</a>]
+<li> &nbsp; <b>Y. Xing</b> and K. H. Johansson. A concentration phenomenon in a gossip interaction model with two communities, <i>European Control Conference (ECC)</i>, pp. 1126-1131, 2022. [<a href="/papers/C2022ECC.pdf">pdf</a>]
 </li>
 
 <li> &nbsp; R. Jin, <b>Y. Xing</b>, and X. He. On the convergence of mSGD and AdaGrad for stochastic optimization, <i>International Conference on Learning
-  Representations (ICLR)</i>, 2022.[<a href="/papers/C2022ICLR.pdf">pdf</a>]
+  Representations (ICLR)</i>, 2022. [<a href="/papers/C2022ICLR.pdf">pdf</a>]
 </li>
 
-<li> &nbsp; <b>Y. Xing</b>, X. He, H. Fang, and K. H. Johansson. Community detection for gossip dynamics with stubborn agents, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 4915-4920, 2020.[<a href="/papers/C2020CDC.pdf">pdf</a>]
+<li> &nbsp; <b>Y. Xing</b>, X. He, H. Fang, and K. H. Johansson. Community detection for gossip dynamics with stubborn agents, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 4915-4920, 2020. [<a href="/papers/C2020CDC.pdf">pdf</a>]
 </li>
 
-<li> &nbsp; <b>Y. Xing</b>, B. Gravell, X. He, K. H. Johansson, and T. Summers. Linear system identification under multiplicative noise from multiple trajectory data, <i>American Control Conference (ACC)</i>, pp. 5157-5261, 2020.[<a href="/papers/C2020ACC.pdf">pdf</a>]
+<li> &nbsp; <b>Y. Xing</b>, B. Gravell, X. He, K. H. Johansson, and T. Summers. Linear system identification under multiplicative noise from multiple trajectory data, <i>American Control Conference (ACC)</i>, pp. 5157-5261, 2020. [<a href="/papers/C2020ACC.pdf">pdf</a>]
 </li>
 
-<li> &nbsp; <b>Y. Xing</b>, X. He, H. Fang, and K. H. Johansson. Network weight estimation for binary-valued observation models, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 2278-2283, 2019.[<a href="/papers/C2019CDC.pdf">pdf</a>]
+<li> &nbsp; <b>Y. Xing</b>, X. He, H. Fang, and K. H. Johansson. Network weight estimation for binary-valued observation models, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 2278-2283, 2019. [<a href="/papers/C2019CDC.pdf">pdf</a>]
 </li>
 
-<li> &nbsp; Y. Dong, <b>Y. Xing</b>, and W. Zhao. The identification of social networks by the least-square algorithm, <i>Chinese Control Conference (CCC)</i>, pp. 1931-1936, 2018.[<a href="/papers/C2018CCCb.pdf">pdf</a>]
+<li> &nbsp; Y. Dong, <b>Y. Xing</b>, and W. Zhao. The identification of social networks by the least-square algorithm, <i>Chinese Control Conference (CCC)</i>, pp. 1931-1936, 2018. [<a href="/papers/C2018CCCb.pdf">pdf</a>]
 </li>
 
-<li> &nbsp; <b>Y. Xing</b> and H. Fang. A smooth bounded confidence model maintaining clustering phenomenon, <i>Chinese Control Conference (CCC)</i>, pp. 9731-9736, 2018.[<a href="/papers/C2018CCCa.pdf">pdf</a>]
+<li> &nbsp; <b>Y. Xing</b> and H. Fang. A smooth bounded confidence model maintaining clustering phenomenon, <i>Chinese Control Conference (CCC)</i>, pp. 9731-9736, 2018. [<a href="/papers/C2018CCCa.pdf">pdf</a>]
 </li>
 
-<li> &nbsp; <b>Y. Xing</b> and H. Fang. A random opinion formation model over signed networks, <i>Asian Control Conference (ASCC)</i>, pp. 687-692, 2017.[<a href="/papers/C2017ASCC.pdf">pdf</a>]
+<li> &nbsp; <b>Y. Xing</b> and H. Fang. A random opinion formation model over signed networks, <i>Asian Control Conference (ASCC)</i>, pp. 687-692, 2017. [<a href="/papers/C2017ASCC.pdf">pdf</a>]
 </li>
 
 </ul>
