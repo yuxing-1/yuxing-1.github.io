@@ -11,7 +11,7 @@ redirect_from:
 
 ## Work experience
 * 2025 -- : Humboldt Research Fellow
-  * Computational Network Science Group, RWTH Aachen University, Germany
+  * Computational Network Science, RWTH Aachen University, Germany
   * Host: Prof. Michael Schaub 
 
 * 2020 -- 2025 : Postdoctoral Researcher
