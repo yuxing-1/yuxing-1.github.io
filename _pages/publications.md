@@ -60,7 +60,7 @@ author_profile: true
 <li> <b>Y. Xing</b>, A. Bizyaeva, and K. H. Johansson. Learning communities from equilibria of nonlinear opinion dynamics, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 2325-2330, 2024. [<a href="https://arxiv.org/pdf/2409.08004">extended version</a>]
 </li>
 
-<li> L. Wang, <b>Y. Xing</b>, and K. H. Johansson. On final opinions of the Friedkin-Johnsen model over random graphs with partially stubborn community, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 4562-4567, 2024. 
+<li> L. Wang, <b>Y. Xing</b>, and K. H. Johansson. On final opinions of the Friedkin-Johnsen model over random graphs with partially stubborn community, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 4562-4567, 2024. [<a href="https://arxiv.org/pdf/2409.05063">extended version</a>]
 </li>
 
 <li> L. Wang, <b>Y. Xing</b>, C. Altafini, and K. H. Johansson. Maximizing social power in multiple independent Friedkin-Johnsen models, <i>European Control Conference (ECC)</i>, pp. 3422-3427, 2024. [<a href="/papers/C2024ECC_a.pdf">pdf</a>]
