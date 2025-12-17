@@ -54,19 +54,19 @@ author_profile: true
 
 <ul id="customlistconference" style="counter-reset: elementcounter 16;">
 
-<li> X. Sun, N. Chen, M. Wohlrapp, A. Gossmann, <b>Y. Xing</b>, E. Dorigatti, C. Feistner, F. Drost, D. Scarcella, L. Helen Beer, and C. Marr. Multi-objective hierarchical feedback optimization of penalty multiplier for domain invariant auto-encoding, <i>28th International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2025.
+<li> X. Sun, N. Chen, M. Wohlrapp, A. Gossmann, <b>Y. Xing</b>, E. Dorigatti, C. Feistner, F. Drost, D. Scarcella, L. Helen Beer, and C. Marr. Multi-objective hierarchical feedback optimization of penalty multiplier for domain invariant auto-encoding, <i>28th International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2025. [<a href="https://proceedings.mlr.press/v258/sun25f.html">pdf</a>]
 </li>
 
-<li> <b>Y. Xing</b>, A. Bizyaeva, and K. H. Johansson. Learning communities from equilibria of nonlinear opinion dynamics, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 2325-2330, 2024.
+<li> <b>Y. Xing</b>, A. Bizyaeva, and K. H. Johansson. Learning communities from equilibria of nonlinear opinion dynamics, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 2325-2330, 2024. [<a href="https://arxiv.org/pdf/2409.08004">extended version</a>]
 </li>
 
-<li> L. Wang, <b>Y. Xing</b>, and K. H. Johansson. On final opinions of the Friedkin-Johnsen model over random graphs with partially stubborn community, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 4562-4567, 2024.
+<li> L. Wang, <b>Y. Xing</b>, and K. H. Johansson. On final opinions of the Friedkin-Johnsen model over random graphs with partially stubborn community, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 4562-4567, 2024. 
 </li>
 
-<li> L. Wang, <b>Y. Xing</b>, C. Altafini, and K. H. Johansson. Maximizing social power in multiple independent Friedkin-Johnsen models, <i>European Control Conference (ECC)</i>, pp. 3422-3427, 2024.
+<li> L. Wang, <b>Y. Xing</b>, C. Altafini, and K. H. Johansson. Maximizing social power in multiple independent Friedkin-Johnsen models, <i>European Control Conference (ECC)</i>, pp. 3422-3427, 2024. [<a href="/papers/C2024ECC_a.pdf">pdf</a>]
 </li>
 
-<li> A. P. Riveiros, <b>Y. Xing</b>, N. Bastianello, and K. H. Johansson. Real-time anomaly detection and categorization for satellite reaction wheels, <i>European Control Conference (ECC)</i>, pp. 253-260, 2024.
+<li> A. P. Riveiros, <b>Y. Xing</b>, N. Bastianello, and K. H. Johansson. Real-time anomaly detection and categorization for satellite reaction wheels, <i>European Control Conference (ECC)</i>, pp. 253-260, 2024. [<a href="/papers/C2024ECC_b.pdf">pdf</a>]
 </li>
 
 <li> <b>Y. Xing</b> and K. H. Johansson. Almost exact recovery in gossip opinion dynamics over stochastic block models, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 2421-2426, 2023. [<a href="/papers/C2023CDC.pdf">pdf</a>]
