@@ -14,7 +14,10 @@ author_profile: true
 ## Journal Papers
 
 *corresponding author, ^equal contribution
-<ul id="customlistjournal" style="counter-reset: elementcounter 10;">
+<ul id="customlistjournal" style="counter-reset: elementcounter 11;">
+
+<li> P. Duan, T. Liu, <b>Y. Xing</b>, and K. H. Johansson. Robust data-driven Kalman filtering for unknown linear systems using maximum likelihood optimization, <i>Automatica</i>, vol. 180, p. 112474, 2025. [<a href="/papers/J2025Automatica.pdf">pdf</a>] [<a href="https://arxiv.org/pdf/2311.18096">extended version</a>]
+</li>
 
 <li> <b>Y. Xing</b>, and K. H. Johansson. Concentration in gossip opinion dynamics over random graphs, <i>SIAM Journal on Control and Optimization</i>, vol. 62, no. 3, pp. 1521-1545, 2024. [<a href="/papers/J2024SICON.pdf">pdf</a>] [<a href="https://arxiv.org/pdf/2301.05352">extended version</a>]
 </li>
