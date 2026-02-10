@@ -14,7 +14,10 @@ author_profile: true
 ## Journal Papers
 
 *corresponding author, ^equal contribution
-<ul id="customlistjournal" style="counter-reset: elementcounter 11;">
+<ul id="customlistjournal" style="counter-reset: elementcounter 12;">
+
+<li> L. Wang, <b>Y. Xing</b>, S. Huang, C. Altafini, K. H. Johansson. Social power games for parallel Friedkin-Johnsen models, <i>IEEE Transactions on Automatic Control</i>, early access, 2025.
+</li>
 
 <li> P. Duan, T. Liu, <b>Y. Xing</b>, and K. H. Johansson. Robust data-driven Kalman filtering for unknown linear systems using maximum likelihood optimization, <i>Automatica</i>, vol. 180, p. 112474, 2025. [<a href="/papers/J2025Automatica.pdf">pdf</a>] [<a href="https://arxiv.org/pdf/2311.18096">extended version</a>]
 </li>
@@ -28,8 +31,7 @@ author_profile: true
 <li>  <b>Y. Xing</b>, X. He, H. Fang, and K. H. Johansson. Community structure recovery and interaction probability estimation for gossip opinion dynamics, <i>Automatica</i>, vol. 154, p. 111105, 2023. [<a href="/papers/J2023Automatica.pdf">pdf</a>] [<a href="https://arxiv.org/pdf/2102.09683">extended version</a>]
 </li>
 
-<li>  <b>Y. Xing</b>, X. He*, H. Fang, and K. H. Johansson. Recursive network estimation for a model with binary-valued states, <i>IEEE Transactions on Automatic
-  Control</i>, vol. 68, no. 7, pp. 3872-3887, 2023. [<a href="/papers/J2023IEEETAC.pdf">pdf</a>]
+<li>  <b>Y. Xing</b>, X. He*, H. Fang, and K. H. Johansson. Recursive network estimation for a model with binary-valued states, <i>IEEE Transactions on Automatic Control</i>, vol. 68, no. 7, pp. 3872-3887, 2023. [<a href="/papers/J2023IEEETAC.pdf">pdf</a>]
 </li>
 
 <li>  <b>Y. Xing</b>^, B. Gravell^, X. He, K. H. Johansson, and T. H. Summers. Identification of linear systems with multiplicative noise from multiple trajectory data, <i>Automatica</i>, vol. 144, p. 110486, 2022. [<a href="/papers/J2022Automatica.pdf">pdf</a>] [<a href="https://arxiv.org/pdf/2106.16078">extended version</a>]
@@ -52,7 +54,10 @@ author_profile: true
 
 ## Conference Papers
 
-<ul id="customlistconference" style="counter-reset: elementcounter 16;">
+<ul id="customlistconference" style="counter-reset: elementcounter 17;">
+
+<li> L. Wang, <b>Y. Xing</b>, Y. Yi, K. H. Johansson. How can an influencer maximize her social power?, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 5911-5916, 2025.  
+</li>
 
 <li> X. Sun, N. Chen, M. Wohlrapp, A. Gossmann, <b>Y. Xing</b>, E. Dorigatti, C. Feistner, F. Drost, D. Scarcella, L. Helen Beer, and C. Marr. Multi-objective hierarchical feedback optimization of penalty multiplier for domain invariant auto-encoding, <i>28th International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2025. [<a href="https://proceedings.mlr.press/v258/sun25f.html">pdf</a>]
 </li>
