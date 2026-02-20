@@ -62,10 +62,10 @@ author_profile: true
 <li> X. Sun, N. Chen, M. Wohlrapp, A. Gossmann, <b>Y. Xing</b>, E. Dorigatti, C. Feistner, F. Drost, D. Scarcella, L. Helen Beer, and C. Marr. Multi-objective hierarchical feedback optimization of penalty multiplier for domain invariant auto-encoding, <i>28th International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2025. [<a href="https://proceedings.mlr.press/v258/sun25f.html">pdf</a>]
 </li>
 
-<li> <b>Y. Xing</b>, A. Bizyaeva, and K. H. Johansson. Learning communities from equilibria of nonlinear opinion dynamics, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 2325-2330, 2024. [<a href="https://arxiv.org/pdf/2409.08004">extended version</a>]
+<li> <b>Y. Xing</b>, A. Bizyaeva, and K. H. Johansson. Learning communities from equilibria of nonlinear opinion dynamics, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 2325-2330, 2024. [<a href="/papers/C2024CDC_a.pdf">pdf</a>] [<a href="https://arxiv.org/pdf/2409.08004">extended version</a>]
 </li>
 
-<li> L. Wang, <b>Y. Xing</b>, and K. H. Johansson. On final opinions of the Friedkin-Johnsen model over random graphs with partially stubborn community, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 4562-4567, 2024. [<a href="https://arxiv.org/pdf/2409.05063">extended version</a>]
+<li> L. Wang, <b>Y. Xing</b>, and K. H. Johansson. On final opinions of the Friedkin-Johnsen model over random graphs with partially stubborn community, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 4562-4567, 2024. [<a href="/papers/C2024CDC_b.pdf">pdf</a>] [<a href="https://arxiv.org/pdf/2409.05063">extended version</a>]
 </li>
 
 <li> L. Wang, <b>Y. Xing</b>, C. Altafini, and K. H. Johansson. Maximizing social power in multiple independent Friedkin-Johnsen models, <i>European Control Conference (ECC)</i>, pp. 3422-3427, 2024. [<a href="/papers/C2024ECC_a.pdf">pdf</a>]
