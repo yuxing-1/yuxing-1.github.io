@@ -16,7 +16,7 @@ author_profile: true
 *corresponding author, ^equal contribution
 <ul id="customlistjournal" style="counter-reset: elementcounter 12;">
 
-<li> L. Wang, <b>Y. Xing</b>, S. Huang, C. Altafini, K. H. Johansson. Social power games for parallel Friedkin-Johnsen models, <i>IEEE Transactions on Automatic Control</i>, early access, 2025.
+<li> L. Wang, <b>Y. Xing</b>, S. Huang, C. Altafini, K. H. Johansson. Social power games for parallel Friedkin-Johnsen models, <i>IEEE Transactions on Automatic Control</i>, early access, 2025. [<a href="/papers/J2025TAC.pdf">pdf</a>]
 </li>
 
 <li> P. Duan, T. Liu, <b>Y. Xing</b>, and K. H. Johansson. Robust data-driven Kalman filtering for unknown linear systems using maximum likelihood optimization, <i>Automatica</i>, vol. 180, p. 112474, 2025. [<a href="/papers/J2025Automatica.pdf">pdf</a>] [<a href="https://arxiv.org/pdf/2311.18096">extended version</a>]
@@ -56,7 +56,7 @@ author_profile: true
 
 <ul id="customlistconference" style="counter-reset: elementcounter 17;">
 
-<li> L. Wang, <b>Y. Xing</b>, Y. Yi, K. H. Johansson. How can an influencer maximize her social power?, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 5911-5916, 2025.  
+<li> L. Wang, <b>Y. Xing</b>, Y. Yi, K. H. Johansson. How can an influencer maximize her social power?, <i>IEEE Conference on Decision and Control (CDC)</i>, pp. 5911-5916, 2025. [<a href="/papers/C2025CDC.pdf">pdf</a>]
 </li>
 
 <li> X. Sun, N. Chen, M. Wohlrapp, A. Gossmann, <b>Y. Xing</b>, E. Dorigatti, C. Feistner, F. Drost, D. Scarcella, L. Helen Beer, and C. Marr. Multi-objective hierarchical feedback optimization of penalty multiplier for domain invariant auto-encoding, <i>28th International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2025. [<a href="https://proceedings.mlr.press/v258/sun25f.html">pdf</a>]
