@@ -11,7 +11,7 @@ I am a Humboldt Research Fellow at RWTH Aachen University, Germany, hosted by Pr
 
 
 ### News
-***Arp, 2026*** -- Our paper "Approximate Simulation-Based Verification of Compatibility of the Friedkin–Johnsen Model with Binary Observations" has been accepted by the 2026 European Control Conference. In the paper we explore how formal verification techniques can be integrated into the study of opinion dynamics. Check the extended version [here](https://arxiv.org/pdf/2604.05196).  
+***Apr, 2026*** -- Our paper "Approximate Simulation-Based Verification of Compatibility of the Friedkin–Johnsen Model with Binary Observations" has been accepted by the 2026 European Control Conference. In the paper we explore how formal verification techniques can be integrated into the study of opinion dynamics. Check the extended version [here](https://arxiv.org/pdf/2604.05196).  
 ***Jul, 2025*** -- I'm joining [the Chair for Computational Network Science](https://www.netsci.rwth-aachen.de/) at RWTH Aachen, as a Humboldt Research Fellow.  
 ***Mar 10, 2025*** -- I got involved in an interesting project on multi-objective model parameter optimization via feedback control, led by [Xudong Sun](https://smilesun.github.io/). The [paper](https://openreview.net/forum?id=8LRZ62HWp3) has been accepted by *AISTATS 2025*.  
 ***Sep 13, 2024*** -- Two papers have been accepted by *2024 IEEE Conference on Decision and Control (CDC)*. Check the papers on arXiv [<a href="https://arxiv.org/abs/2409.08004">paper1</a>] [<a href="https://arxiv.org/abs/2409.05063">paper2</a>].  
